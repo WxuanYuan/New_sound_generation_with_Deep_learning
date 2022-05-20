@@ -1,0 +1,2 @@
+# New_soundgeneration_with_Deep_learning
+Bachelor thesis Code
